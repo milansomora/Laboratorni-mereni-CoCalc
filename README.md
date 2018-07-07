@@ -23,5 +23,5 @@ Cílem bylo představit potenciál webové služby CoCalc a naučit v ní pracov
 </br>
 
 <div align="center">
-<a href="https://cocalc.com/"> <img src="cocalc.jpg" height="400"></a>
+<a href="https://cocalc.com/"> <img src="cocalc.jpg" height="350"></a>
 </div>
