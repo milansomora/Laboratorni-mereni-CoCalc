@@ -1,8 +1,6 @@
 # Zpracování laboratorních měření v CoCalc
 Tato dokumentace vznikla na základě podkladů bakalářské práce napsané pro Jihočeskou univerzitu v Českých Budějovicích. Jedná se o druhé přepracované vydání.
 </br>
-</br>
-
 Cílem bylo představit potenciál webové služby CoCalc a naučit v ní pracovat především studenty vysokých škol, aby dosáhli lepších výsledků při zpracování laboratorních měření. Uvedené informace a postupy se však ohou aplikovat rovněž na dokumenty jiného zaměření. 
 </br>
 </br>
