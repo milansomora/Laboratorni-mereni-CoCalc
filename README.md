@@ -1,25 +1,18 @@
 # Zpracování laboratorních měření v CoCalc
-Tato dokumentace vznikla na základě podkladů bakalářské práce napsané pro Jihočeskou univerzitu v Českých Budějovicích. Jedná se o druhé přepracované vydání.
-</br>
-Cílem bylo představit potenciál webové služby CoCalc a naučit v ní pracovat především studenty vysokých škol, aby dosáhli lepších výsledků při zpracování laboratorních měření. Uvedené informace a postupy se však ohou aplikovat rovněž na dokumenty jiného zaměření. 
+
+Cílem doklumentace je představit potenciál webové služby CoCalc pro zpracování laboratorních měření.
 </br>
 </br>
 
-#### Dokumentace se věnuje:
+#### Obsah dokumentace:
 - Seznámení se službou CoCalc
-- Popisu práce v CoCalc
-- Požadavkům na laboratorní protokol
-- Typografickým pravidlům (všeobecně)
-- Správnému zápisu fyzikálních jednotek
+- Popis práce v CoCalc
+- Požadavky na laboratorní protokol
+- Všeobeecná typografická pravidla
+- Správný zápis fyzikálních jednotek
 - Sázení matematických rovnic v jazyku Latex
 - Zpracování naměřených hodnot
-- Základům jazyka Octave
-</br>
-
-#### Obsah repozitáře:
-- Dokumentace, která popopisuje zpracování lab. měření v CoCalc
-- Originál (první verze) bakalářské práce
-
+- Základy jazyka Octave
 </br>
 </br>
 
