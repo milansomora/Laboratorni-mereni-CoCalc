@@ -4,7 +4,7 @@ Cílem doklumentace je představit potenciál webové služby CoCalc pro zpracov
 </br>
 </br>
 
-#### Obsah dokumentace:
+#### Obsah:
 - Seznámení se službou CoCalc
 - Popis práce v CoCalc
 - Požadavky na laboratorní protokol
